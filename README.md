@@ -1,5 +1,5 @@
 # SwiftSpendings
-Swift Spendings is a expense trackerapplication that is designed to help users monitor their spending and gain better control over their finances.
+Swift Spendings is a expense tracker application that is designed to help users monitor their spending and gain better control over their finances.
 
 # Key Features
 - Manual Expense Logging: Users can manually input their expenses for precise tracking.
